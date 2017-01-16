@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo</string>
+    <!-- 项目文件保存父文件夹名称 -->
+    <string name="parentPath">/demo</string>
+    <!-- 缓存文件保存文件夹名称 -->
+    <string name="cache">/cache</string>
+    <!-- 数据文件保存文件夹名称 -->
+    <string name="data">/data</string>
+    <!-- 皮肤文件保存总文件 名称 -->
+    <string name="skin">/skin</string>
+    <string name="company">bloves</string>
+
+
+    <!-- 网络访问提示 -->
+    <string name="net_approve_fail">请确认您的图片大小是否为1k至2M！</string>
+    <string name="net_connect_timeout">网络连接超时，请检查您的网络情况</string>
+    <string name="net_connect_fail">网络连接失败，请检查您的网络情况</string>
+    <string name="net_socket_timeout">服务器返回超时，请重试！</string>
+
+    <!-- 对话框提示信息 -->
+    <string name="dialog_title">温馨提示</string>
+    <string name="dialog_message_noNet">您的网络未连接</string>
+    <string name="dialog_setting">重新设置</string>
+    <string name="dialog_cannel">取消</string>
+    <string name="dialog_sure">确认</string>
+    <string name="dialog_exit">是否退出程序?</string>
+
+</resources>
